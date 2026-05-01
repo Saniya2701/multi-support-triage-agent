@@ -1,1 +1,275 @@
-issue,subject,company,response,product_area,status,request_type,justification
+status,product_area,response,justification,request_type
+replied,account_access,"Thanks for contacting Claude support.
+
+It seems you're having trouble accessing your account.
+
+Please try the following:
+- Verify your login credentials
+- Reset your password if needed
+- Contact your admin if your access was removed
+
+If access was revoked, only the administrator can restore it.
+
+If you need further assistance, please contact support.
+",medium_risk_answered,account
+replied,general,"Thanks for reaching out to HackerRank support.
+
+Regarding your test or interview:
+
+- Ensure your system meets requirements
+- Check browser, camera, and microphone permissions
+- Contact the recruiter if rescheduling is needed
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,billing,"Thank you for contacting Visa support.
+
+We understand your concern regarding payment or refund.
+
+Please note:
+- Refunds depend on platform policies
+- Share your order ID with support for verification
+- For card-related issues, your bank can assist further
+
+If you need further assistance, please contact support.
+",medium_risk_answered,billing
+replied,billing,"Thanks for reaching out to HackerRank support.
+
+We understand your concern regarding payment or refund.
+
+Please note:
+- Refunds depend on platform policies
+- Share your order ID with support for verification
+- For card-related issues, your bank can assist further
+
+If you need further assistance, please contact support.
+",medium_risk_answered,billing
+replied,billing,"Thanks for reaching out to HackerRank support.
+
+We understand your concern regarding payment or refund.
+
+Please note:
+- Refunds depend on platform policies
+- Share your order ID with support for verification
+- For card-related issues, your bank can assist further
+
+If you need further assistance, please contact support.
+",medium_risk_answered,billing
+replied,general,"Thanks for reaching out to HackerRank support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for reaching out to HackerRank support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for reaching out to HackerRank support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,technical_support,"Thanks for reaching out to HackerRank support.
+
+It looks like you're facing a technical issue.
+
+Try these steps:
+- Refresh or restart your session
+- Clear browser cache or try a different browser
+- Check your internet connection
+
+If the issue continues, please share details with support.
+
+If you need further assistance, please contact support.
+",bug_guidance,bug
+replied,general,"Thanks for reaching out to HackerRank support.
+
+Regarding your test or interview:
+
+- Ensure your system meets requirements
+- Check browser, camera, and microphone permissions
+- Contact the recruiter if rescheduling is needed
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for reaching out to HackerRank support.
+
+Regarding your test or interview:
+
+- Ensure your system meets requirements
+- Check browser, camera, and microphone permissions
+- Contact the recruiter if rescheduling is needed
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,technical_support,"Thank you for reaching out.
+
+It looks like you're facing a technical issue.
+
+Try these steps:
+- Refresh or restart your session
+- Clear browser cache or try a different browser
+- Check your internet connection
+
+If the issue continues, please share details with support.
+
+If you need further assistance, please contact support.
+",bug_guidance,bug
+replied,general,"Thanks for reaching out to HackerRank support.
+
+Regarding your test or interview:
+
+- Ensure your system meets requirements
+- Check browser, camera, and microphone permissions
+- Contact the recruiter if rescheduling is needed
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for reaching out to HackerRank support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for contacting Claude support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+escalated,fraud_security,Please contact support for further assistance.,high_risk_security,fraud
+replied,general,"Thanks for reaching out to HackerRank support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for reaching out to HackerRank support.
+
+For certificate-related issues:
+
+- Verify your profile details
+- Try downloading the certificate again
+- Contact support if corrections are required
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thank you for contacting Visa support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for contacting Claude support.
+
+This appears to be a sensitive security concern.
+
+Please:
+- Contact support immediately
+- Avoid sharing sensitive details publicly
+- Monitor your account activity
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for contacting Claude support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thank you for contacting Visa support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thanks for contacting Claude support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thank you for reaching out.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+escalated,fraud_security,Please contact support for further assistance.,high_risk_security,fraud
+replied,general,"Thanks for contacting Claude support.
+
+It looks like you're facing a technical issue.
+
+Try these steps:
+- Refresh or restart your session
+- Clear browser cache or try a different browser
+- Check your internet connection
+
+If the issue continues, please share details with support.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,account_access,"Thanks for reaching out to HackerRank support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",medium_risk_answered,account
+replied,general,"Thanks for contacting Claude support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
+replied,general,"Thank you for contacting Visa support.
+
+We understand your concern.
+
+Please try basic troubleshooting steps or refer to the help section.
+If the issue persists, contact support with more details.
+
+If you need further assistance, please contact support.
+",answer_from_corpus,general
