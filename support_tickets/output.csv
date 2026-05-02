@@ -1,275 +1,282 @@
 status,product_area,response,justification,request_type
-replied,account_access,"Thanks for contacting Claude support.
+replied,account_access,"Based on our documentation:
 
-It seems you're having trouble accessing your account.
+# Claude Help Center
 
-Please try the following:
-- Verify your login credentials
-- Reset your password if needed
-- Contact your admin if your access was removed
+Exported 321 articles.
 
-If access was revoked, only the administrator can restore it.
+## Amazon Bedrock
+- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
+- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",medium_risk_answered,product_issue
+replied,assessments,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",medium_risk_answered,account
-replied,general,"Thanks for reaching out to HackerRank support.
+# HackerRank Knowledge Base
 
-Regarding your test or interview:
+Exported 394 articles.
 
-- Ensure your system meets requirements
-- Check browser, camera, and microphone permissions
-- Contact the recruiter if rescheduling is needed
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",answer_from_corpus,product_issue
+replied,billing,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,billing,"Thank you for contacting Visa support.
+# Visa India Support
 
-We understand your concern regarding payment or refund.
+## Root
+- [Visa Consumer Support](support.md)
 
-Please note:
-- Refunds depend on platform policies
-- Share your order ID with support for verification
-- For card-related issues, your bank can assist further
+## support
+- [Consumer](support/consumer.md)
+- [Merchant](support/merchant.md)
 
-If you need further assistance, please contact support.
-",medium_risk_answered,billing
-replied,billing,"Thanks for reaching out to HackerRank support.
+## support/consumer
+- [Checkout Fees + Contact Form](support/consumer/checkout-fees-contact-form.md)
+- [Visa Travel Services | Visa Travel Credit Card ...",medium_risk_answered,product_issue
+replied,billing,"Based on our documentation:
 
-We understand your concern regarding payment or refund.
+# HackerRank Knowledge Base
 
-Please note:
-- Refunds depend on platform policies
-- Share your order ID with support for verification
-- For card-related issues, your bank can assist further
+Exported 394 articles.
 
-If you need further assistance, please contact support.
-",medium_risk_answered,billing
-replied,billing,"Thanks for reaching out to HackerRank support.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",bug_guidance,bug
+replied,billing,"Based on our documentation:
 
-We understand your concern regarding payment or refund.
+# HackerRank Knowledge Base
 
-Please note:
-- Refunds depend on platform policies
-- Share your order ID with support for verification
-- For card-related issues, your bank can assist further
+Exported 394 articles.
 
-If you need further assistance, please contact support.
-",medium_risk_answered,billing
-replied,general,"Thanks for reaching out to HackerRank support.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",bug_guidance,bug
+replied,general,"Based on our documentation:
 
-We understand your concern.
+# HackerRank Knowledge Base
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+Exported 394 articles.
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for reaching out to HackerRank support.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",answer_from_corpus,product_issue
+replied,general,"Based on our documentation:
 
-We understand your concern.
+# HackerRank Knowledge Base
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+Exported 394 articles.
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for reaching out to HackerRank support.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",bug_guidance,bug
+replied,assessments,"Based on our documentation:
 
-We understand your concern.
+# HackerRank Knowledge Base
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+Exported 394 articles.
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,technical_support,"Thanks for reaching out to HackerRank support.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",bug_guidance,bug
+replied,assessments,"Based on our documentation:
 
-It looks like you're facing a technical issue.
+# HackerRank Knowledge Base
 
-Try these steps:
-- Refresh or restart your session
-- Clear browser cache or try a different browser
-- Check your internet connection
+Exported 394 articles.
 
-If the issue continues, please share details with support.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",bug_guidance,bug
+replied,assessments,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",bug_guidance,bug
-replied,general,"Thanks for reaching out to HackerRank support.
+# HackerRank Knowledge Base
 
-Regarding your test or interview:
+Exported 394 articles.
 
-- Ensure your system meets requirements
-- Check browser, camera, and microphone permissions
-- Contact the recruiter if rescheduling is needed
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",feature_acknowledged,feature_request
+replied,assessments,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for reaching out to HackerRank support.
+# HackerRank Knowledge Base
 
-Regarding your test or interview:
+Exported 394 articles.
 
-- Ensure your system meets requirements
-- Check browser, camera, and microphone permissions
-- Contact the recruiter if rescheduling is needed
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",answer_from_corpus,product_issue
+replied,general,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,technical_support,"Thank you for reaching out.
+# HackerRank Knowledge Base
 
-It looks like you're facing a technical issue.
+Exported 394 articles.
 
-Try these steps:
-- Refresh or restart your session
-- Clear browser cache or try a different browser
-- Check your internet connection
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",bug_guidance,bug
+replied,assessments,"Based on our documentation:
 
-If the issue continues, please share details with support.
+# HackerRank Knowledge Base
 
-If you need further assistance, please contact support.
-",bug_guidance,bug
-replied,general,"Thanks for reaching out to HackerRank support.
+Exported 394 articles.
 
-Regarding your test or interview:
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",answer_from_corpus,product_issue
+replied,general,"Based on our documentation:
 
-- Ensure your system meets requirements
-- Check browser, camera, and microphone permissions
-- Contact the recruiter if rescheduling is needed
+# HackerRank Knowledge Base
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for reaching out to HackerRank support.
+Exported 394 articles.
 
-We understand your concern.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",answer_from_corpus,product_issue
+replied,api_support,"Based on our documentation:
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+# Claude Help Center
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for contacting Claude support.
+Exported 321 articles.
 
-We understand your concern.
+## Amazon Bedrock
+- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
+- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",bug_guidance,bug
+escalated,general,Your request requires further review. Our support team will assist you shortly.,high_risk_security,product_issue
+replied,general,"Based on our documentation:
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+# HackerRank Knowledge Base
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-escalated,fraud_security,Please contact support for further assistance.,high_risk_security,fraud
-replied,general,"Thanks for reaching out to HackerRank support.
+Exported 394 articles.
 
-We understand your concern.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",answer_from_corpus,product_issue
+replied,assessments,"Based on our documentation:
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+# HackerRank Knowledge Base
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for reaching out to HackerRank support.
+Exported 394 articles.
 
-For certificate-related issues:
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",answer_from_corpus,product_issue
+replied,general,"Based on our documentation:
 
-- Verify your profile details
-- Try downloading the certificate again
-- Contact support if corrections are required
+# Visa India Support
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thank you for contacting Visa support.
+## Root
+- [Visa Consumer Support](support.md)
 
-We understand your concern.
+## support
+- [Consumer](support/consumer.md)
+- [Merchant](support/merchant.md)
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+## support/consumer
+- [Checkout Fees + Contact Form](support/consumer/checkout-fees-contact-form.md)
+- [Visa Travel Services | Visa Travel Credit Card ...",answer_from_corpus,product_issue
+replied,api_support,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for contacting Claude support.
+# Claude Help Center
 
-This appears to be a sensitive security concern.
+Exported 321 articles.
 
-Please:
-- Contact support immediately
-- Avoid sharing sensitive details publicly
-- Monitor your account activity
+## Amazon Bedrock
+- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
+- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",bug_guidance,bug
+replied,api_support,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for contacting Claude support.
+# Claude Help Center
 
-We understand your concern.
+Exported 321 articles.
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+## Amazon Bedrock
+- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
+- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",answer_from_corpus,product_issue
+replied,billing,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thank you for contacting Visa support.
+# Visa India Support
 
-We understand your concern.
+## Root
+- [Visa Consumer Support](support.md)
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+## support
+- [Consumer](support/consumer.md)
+- [Merchant](support/merchant.md)
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thanks for contacting Claude support.
+## support/consumer
+- [Checkout Fees + Contact Form](support/consumer/checkout-fees-contact-form.md)
+- [Visa Travel Services | Visa Travel Credit Card ...",medium_risk_answered,product_issue
+replied,api_support,"Based on our documentation:
 
-We understand your concern.
+# Claude Help Center
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+Exported 321 articles.
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thank you for reaching out.
+## Amazon Bedrock
+- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
+- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",feature_acknowledged,feature_request
+replied,general,"Based on our documentation:
 
-We understand your concern.
+# HackerRank Knowledge Base
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+Exported 394 articles.
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-escalated,fraud_security,Please contact support for further assistance.,high_risk_security,fraud
-replied,general,"Thanks for contacting Claude support.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",answer_from_corpus,product_issue
+escalated,general,Your request requires further review. Our support team will assist you shortly.,high_risk_security,product_issue
+replied,api_support,"Based on our documentation:
 
-It looks like you're facing a technical issue.
+# Claude Help Center
 
-Try these steps:
-- Refresh or restart your session
-- Clear browser cache or try a different browser
-- Check your internet connection
+Exported 321 articles.
 
-If the issue continues, please share details with support.
+## Amazon Bedrock
+- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
+- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",bug_guidance,bug
+replied,account_access,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,account_access,"Thanks for reaching out to HackerRank support.
+# HackerRank Knowledge Base
 
-We understand your concern.
+Exported 394 articles.
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+## Uncategorized
+- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
+- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
+- [Execution Env...",medium_risk_answered,product_issue
+replied,api_support,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",medium_risk_answered,account
-replied,general,"Thanks for contacting Claude support.
+# Claude Help Center
 
-We understand your concern.
+Exported 321 articles.
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+## Amazon Bedrock
+- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
+- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",answer_from_corpus,product_issue
+replied,billing,"Based on our documentation:
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
-replied,general,"Thank you for contacting Visa support.
+# Visa India Support
 
-We understand your concern.
+## Root
+- [Visa Consumer Support](support.md)
 
-Please try basic troubleshooting steps or refer to the help section.
-If the issue persists, contact support with more details.
+## support
+- [Consumer](support/consumer.md)
+- [Merchant](support/merchant.md)
 
-If you need further assistance, please contact support.
-",answer_from_corpus,general
+## support/consumer
+- [Checkout Fees + Contact Form](support/consumer/checkout-fees-contact-form.md)
+- [Visa Travel Services | Visa Travel Credit Card ...",medium_risk_answered,product_issue
