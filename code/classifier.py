@@ -1,28 +1,62 @@
-def classify_ticket(ticket_text, company):
-    text = ticket_text.lower()
+def classify_request(issue):
+    issue = issue.lower()
 
-    # Detect intent
-    if "refund" in text or "payment" in text:
-        request_type = "billing"
-    elif "error" in text or "bug" in text or "not working" in text:
-        request_type = "bug"
-    elif "login" in text or "account" in text or "access" in text:
-        request_type = "account"
-    elif "fraud" in text or "stolen" in text:
-        request_type = "fraud"
-    else:
-        request_type = "general"
+    # 🐞 Bug detection
+    if any(word in issue for word in ["error", "not working", "fail", "issue", "bug"]):
+        return "bug"
 
-    # Detect area
-    if request_type == "billing":
-        area = "billing"
-    elif request_type == "bug":
-        area = "technical_support"
-    elif request_type == "account":
-        area = "account_access"
-    elif request_type == "fraud":
-        area = "fraud_security"
-    else:
-        area = "general"
+    # 💡 Feature request
+    if any(word in issue for word in ["feature", "add", "improve", "request"]):
+        return "feature_request"
 
-    return area, request_type
+    # ❌ Invalid / vague
+    if len(issue.strip()) < 5 or issue in ["help", "it’s not working"]:
+        return "invalid"
+
+    # ✅ Default
+    return "product_issue"
+
+
+def classify_product_area(issue):
+    issue = issue.lower()
+
+    if any(word in issue for word in ["payment", "refund", "billing", "card"]):
+        return "billing"
+
+    if any(word in issue for word in ["login", "account", "access"]):
+        return "account_access"
+
+    if any(word in issue for word in ["test", "assessment", "interview"]):
+        return "assessments"
+
+    if any(word in issue for word in ["api", "model", "claude"]):
+        return "api_support"
+
+    return "general"
+
+
+def infer_company(issue):
+    issue = issue.lower()
+
+    score = {
+        "hackerrank": 0,
+        "claude": 0,
+        "visa": 0
+    }
+
+    # HackerRank keywords
+    for word in ["test", "assessment", "interview", "candidate"]:
+        if word in issue:
+            score["hackerrank"] += 1
+
+    # Claude keywords
+    for word in ["api", "model", "claude", "bedrock"]:
+        if word in issue:
+            score["claude"] += 1
+
+    # Visa keywords
+    for word in ["card", "payment", "refund", "transaction"]:
+        if word in issue:
+            score["visa"] += 1
+
+    return max(score, key=score.get)

@@ -1,79 +1,93 @@
-import csv
 import pandas as pd
-from retriever import Retriever
-from classifier import classify_ticket
-from responder import generate_response
-from decision_engine import decide
-from utils import fallback_response
-from config import *
+from classifier import classify_request, classify_product_area, infer_company
+from retriever import retrieve_documents
+from utils import assess_risk
+from decision_engine import decide_action   # ✅ IMPORTANT
 
 print("="*70)
 print("🔥 Advanced Multi-Support Triage Agent")
 print("="*70)
 
-# ✅ Load dataset
+# 📂 Load CSV
 df = pd.read_csv("../support_tickets/support_tickets.csv")
 
-documents = df["Issue"].dropna().tolist()
-retriever = Retriever(documents)
-
-print(f"\n📚 Indexed {len(documents)} documents")
-print(f"✅ Loaded {len(df)} tickets")
+print(f"\n📚 Loaded {len(df)} tickets\n")
 
 output = []
+replied = 0
+escalated = 0
 
-print("\n🔄 Processing tickets...")
+print("🔄 Processing tickets...")
 
 for i, row in df.iterrows():
+    issue = str(row.get("Issue", "")).strip()
+    subject = str(row.get("Subject", "")).strip()
+    company = str(row.get("Company", "")).strip().lower()
 
-    text = str(row["Issue"])
-    company = str(row["Company"])
+    full_text = subject + " " + issue
 
-    if (i+1) % 5 == 0:
-        print(f"   [{i+1}/{len(df)}]")
+    # 🏢 Company inference
+    if company == "" or company == "nan":
+        company = infer_company(full_text)
 
-    # ✅ Classification
-    area, request_type = classify_ticket(text, company)
+    # 🧠 Classification
+    request_type = classify_request(full_text)
+    product_area = classify_product_area(full_text)
 
-    # ✅ Retrieval
-    results = retriever.search(text)
+    # 📚 Retrieval
+    doc, score = retrieve_documents(full_text, company)
 
-    # ✅ Base response
-    response, score = generate_response(results, text, company)
+    # ⚠️ Risk
+    risk = assess_risk(full_text)
 
-    # ✅ Decision
-    decision, justification = decide(area, request_type, score)
+    # ✅ CENTRALIZED DECISION ENGINE (THIS FIXES EVERYTHING)
+    decision, reason = decide_action(
+        request_type,
+        product_area,
+        risk,
+        score
+    )
 
-    # 🔥 FINAL LOGIC (NO OPENAI)
+    # 📊 Count
     if decision == "replied":
-        # Use fallback if low confidence
-        if score < 0.30:
-            response = fallback_response(text, company)
+        replied += 1
+    else:
+        escalated += 1
 
-    if decision == "escalated":
-        response = "Please contact support for further assistance."
+    # 📝 Response
+    if decision == "replied":
+        if doc:
+            response = f"Based on our documentation:\n\n{doc[:300]}..."
+        else:
+            response = "Thank you for reaching out. Please try basic troubleshooting steps or contact support if the issue persists."
+    else:
+        response = "Your request requires further review. Our support team will assist you shortly."
 
-    # ✅ ALWAYS append
+    # 📦 Save output
     output.append({
         "status": decision,
-        "product_area": area,
+        "product_area": product_area,
         "response": response,
-        "justification": justification,
+        "justification": reason,
         "request_type": request_type
     })
 
-# ✅ Safe CSV writing
-if output:
-    with open("../support_tickets/output.csv", "w", newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=output[0].keys())
-        writer.writeheader()
-        writer.writerows(output)
+    # 🖥️ Print logs
+    print(f"TICKET_{i+1} | {company} | {request_type} | {decision} | {round(score,3)} | {reason}")
 
-    print("\n" + "="*70)
-    print("✅ DONE!")
-    print(f"🔥 Replied: {sum(1 for o in output if o['status']=='replied')}")
-    print(f"⚠️ Escalated: {sum(1 for o in output if o['status']=='escalated')}")
-    print("📁 Output: ../support_tickets/output.csv")
-    print("="*70)
-else:
-    print("⚠️ No output generated!")
+# 💾 Save CSV
+out_df = pd.DataFrame(output)
+out_df.to_csv("../support_tickets/output.csv", index=False)
+
+print("\n" + "="*70)
+print("✅ DONE!")
+print(f"🔥 Replied: {replied}")
+print(f"⚠️ Escalated: {escalated}")
+
+total = replied + escalated
+if total > 0:
+    print("\n📊 PERFORMANCE METRICS")
+    print(f"Automation Rate: {(replied/total)*100:.2f}%")
+    print(f"Escalation Rate: {(escalated/total)*100:.2f}%")
+
+print("="*70)
