@@ -1,282 +1,234 @@
 status,product_area,response,justification,request_type
 replied,account_access,"Based on our documentation:
 
-# Claude Help Center
+---
+title: ""Where can I access Claude?""
+title_slug: ""where-can-i-access-claude""
+source_url: ""https://support.claude.com/en/articles/8461763-where-can-i-access-claude""
+last_updated_iso: ""2026-03-16T21:16:15Z""
+article_id: ""8488154""
+breadcrumbs:
+  - ""Claude""
+  - ""Get started with Claude""
+---
 
-Exported 321 articles.
-
-## Amazon Bedrock
-- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
-- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",medium_risk_answered,product_issue
+# Where c...",medium_risk_answered,product_issue
 replied,assessments,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",answer_from_corpus,product_issue
+---
+title: ""What happens to Candidate statuses if the cutoff score is altered?""
+title_slug: ""what-happens-to-candidate-statuses-if-the-cutoff-score-is-altered""
+source_url: ""https://support.hackerrank.com/articles/6321836373-what-happens-to-candidate-statuses-if-the-cut-off-score-is-altered%3F""
+artic...",answer_from_corpus,product_issue
 replied,billing,"Based on our documentation:
 
-# Visa India Support
-
-## Root
-- [Visa Consumer Support](support.md)
-
-## support
-- [Consumer](support/consumer.md)
-- [Merchant](support/merchant.md)
-
-## support/consumer
-- [Checkout Fees + Contact Form](support/consumer/checkout-fees-contact-form.md)
-- [Visa Travel Services | Visa Travel Credit Card ...",medium_risk_answered,product_issue
+---
+title: ""Visa Credit Card Rules & Regulations""
+source_url: ""https://www.visa.co.in/support/consumer/visa-rules.html""
+final_url: ""https://www.visa.co.in/support/consumer/visa-rules.html""
+last_modified: ""2023-10-04T01:48:44.301Z""
+description: ""Visa Rules - Learn more about Visa credit card rules, r...",medium_risk_answered,product_issue
 replied,billing,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",bug_guidance,bug
+---
+title: ""Introduction to Mock Interview Types of mock interviews Accessing mock interview""
+title_slug: ""introduction-to-mock-interview-types-of-mock-interviews-accessing-mock-interview""
+source_url: ""https://help.hackerrank.com/articles/8988753946-introduction-to-mock-interview""
+article_slug: ""898...",bug_guidance,bug
 replied,billing,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",bug_guidance,bug
+---
+title: ""Manage Account FAQs Account sign-in Update or reset password Merge multiple HackerRank accounts Delete an account""
+title_slug: ""manage-account-faqs-account-sign-in-update-or-reset-password-merge-multiple-hackerrank-accounts-delete-an-account""
+source_url: ""https://help.hackerrank.com/arti...",bug_guidance,bug
 replied,general,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",answer_from_corpus,product_issue
+---
+title: ""Manual for Fair Hiring""
+title_slug: ""manual-for-fair-hiring""
+source_url: ""https://support.hackerrank.com/articles/7033977271-manual-for-fair-hiring""
+article_slug: ""7033977271-manual-for-fair-hiring""
+last_updated_exact: ""Dec 13, 2024, 5:06 AM""
+last_updated_relative: ""Last updated 1 year a...",answer_from_corpus,product_issue
 replied,general,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",bug_guidance,bug
+---
+title: ""Hide Locked Tabs in Interviews Key benefits Enable automatic tab lock and hide Interviewer experience Candidate experience""
+title_slug: ""hide-locked-tabs-in-interviews-key-benefits-enable-automatic-tab-lock-and-hide-interviewer-experience-candidate-experience""
+source_url: ""https://suppor...",bug_guidance,bug
 replied,assessments,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",bug_guidance,bug
+---
+title: ""How can I Try a Question or a Test?""
+title_slug: ""how-can-i-try-a-question-or-a-test""
+source_url: ""https://support.hackerrank.com/articles/1202456939-how-to-try-a-question-or-a-test""
+article_slug: ""1202456939-how-to-try-a-question-or-a-test""
+last_updated_exact: ""Dec 23, 2024, 2:56 PM""
+la...",bug_guidance,bug
 replied,assessments,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",bug_guidance,bug
+---
+title: ""Modify General Settings for Tests""
+title_slug: ""modify-general-settings-for-tests""
+source_url: ""https://support.hackerrank.com/articles/9672590042-modifying-general-settings-for-tests""
+article_slug: ""9672590042-modifying-general-settings-for-tests""
+last_updated_exact: ""Jul 30, 2025, 9:49...",bug_guidance,bug
 replied,assessments,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",feature_acknowledged,feature_request
+---
+title: ""Update Company Name and Sender Name Prerequisite Updating the company name and sender name""
+title_slug: ""update-company-name-and-sender-name-prerequisite-updating-the-company-name-and-sender-name""
+source_url: ""https://support.hackerrank.com/articles/1019487408-changing-the-company-name""
+...",feature_acknowledged,feature_request
 replied,assessments,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",answer_from_corpus,product_issue
+---
+title: ""Self-Signup for Interviewers""
+title_slug: ""self-signup-for-interviewers""
+source_url: ""https://support.hackerrank.com/articles/6028726783-self-signup-for-interviewers""
+article_slug: ""6028726783-self-signup-for-interviewers""
+last_updated_exact: ""Dec 13, 2024, 4:59 AM""
+last_updated_relative...",answer_from_corpus,product_issue
 replied,general,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",bug_guidance,bug
+---
+title: ""Manage Account FAQs Account sign-in Update or reset password Merge multiple HackerRank accounts Delete an account""
+title_slug: ""manage-account-faqs-account-sign-in-update-or-reset-password-merge-multiple-hackerrank-accounts-delete-an-account""
+source_url: ""https://help.hackerrank.com/arti...",bug_guidance,bug
 replied,assessments,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",answer_from_corpus,product_issue
+---
+title: ""Clone an AI Interviewer Prerequisite Cloning an AI interviewer""
+title_slug: ""clone-an-ai-interviewer-prerequisite-cloning-an-ai-interviewer""
+source_url: ""https://support.hackerrank.com/articles/8961150967-clone-an-ai-interviewer""
+article_slug: ""8961150967-clone-an-ai-interviewer""
+last_up...",answer_from_corpus,product_issue
 replied,general,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",answer_from_corpus,product_issue
+---
+title: ""Manual for Fair Hiring""
+title_slug: ""manual-for-fair-hiring""
+source_url: ""https://support.hackerrank.com/articles/7033977271-manual-for-fair-hiring""
+article_slug: ""7033977271-manual-for-fair-hiring""
+last_updated_exact: ""Dec 13, 2024, 5:06 AM""
+last_updated_relative: ""Last updated 1 year a...",answer_from_corpus,product_issue
 replied,api_support,"Based on our documentation:
 
-# Claude Help Center
+---
+title: ""Claude Code on the web""
+title_slug: ""claude-code-on-the-web""
+source_url: ""https://support.claude.com/en/articles/12618689-claude-code-on-the-web""
+last_updated_iso: ""2026-03-16T20:56:14Z""
+article_id: ""14157303""
+breadcrumbs:
+  - ""Claude Code""
+---
 
-Exported 321 articles.
+# Claude Code on the web
 
-## Amazon Bedrock
-- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
-- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",bug_guidance,bug
+_Last updated: 2...",bug_guidance,bug
 escalated,general,Your request requires further review. Our support team will assist you shortly.,high_risk_security,product_issue
 replied,general,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",answer_from_corpus,product_issue
+---
+title: ""Create a Question Creating a question from the Library Creating a question while editing a test""
+title_slug: ""create-a-question-creating-a-question-from-the-library-creating-a-question-while-editing-a-test""
+source_url: ""https://support.hackerrank.com/articles/4894957291-creating-question...",answer_from_corpus,product_issue
 replied,assessments,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",answer_from_corpus,product_issue
+---
+title: ""Update Personal Details""
+title_slug: ""update-personal-details""
+source_url: ""https://help.hackerrank.com/articles/2857822759-update-personal-details""
+article_slug: ""2857822759-update-personal-details""
+last_updated_exact: ""Oct 30, 2025, 3:03 PM""
+last_updated_relative: ""Last updated 6 month...",answer_from_corpus,product_issue
 replied,general,"Based on our documentation:
 
-# Visa India Support
-
-## Root
-- [Visa Consumer Support](support.md)
-
-## support
-- [Consumer](support/consumer.md)
-- [Merchant](support/merchant.md)
-
-## support/consumer
-- [Checkout Fees + Contact Form](support/consumer/checkout-fees-contact-form.md)
-- [Visa Travel Services | Visa Travel Credit Card ...",answer_from_corpus,product_issue
+---
+title: ""Dispute Resolution""
+source_url: ""https://www.visa.co.in/support/small-business/dispute-resolution.html""
+final_url: ""https://www.visa.co.in/support/small-business/dispute-resolution.html""
+last_modified: ""2023-11-28T01:50:01.804Z""
+description: ""Learn the basics about how to handle disputes...",answer_from_corpus,product_issue
 replied,api_support,"Based on our documentation:
 
-# Claude Help Center
-
-Exported 321 articles.
-
-## Amazon Bedrock
-- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
-- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",bug_guidance,bug
+---
+title: ""Automated Security Reviews in Claude Code""
+title_slug: ""automated-security-reviews-in-claude-code""
+source_url: ""https://support.claude.com/en/articles/11932705-automated-security-reviews-in-claude-code""
+last_updated_iso: ""2026-03-16T20:48:20Z""
+article_id: ""13147827""
+breadcrumbs:
+  - ""Cla...",bug_guidance,bug
 replied,api_support,"Based on our documentation:
 
-# Claude Help Center
-
-Exported 321 articles.
-
-## Amazon Bedrock
-- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
-- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",answer_from_corpus,product_issue
+---
+title: ""How up-to-date is Claude's training data?""
+title_slug: ""how-up-to-date-is-claudes-training-data""
+source_url: ""https://support.claude.com/en/articles/8114494-how-up-to-date-is-claude-s-training-data""
+last_updated_iso: ""2026-04-16T13:30:36Z""
+article_id: ""8070455""
+breadcrumbs:
+  - ""Claude""
+...",answer_from_corpus,product_issue
 replied,billing,"Based on our documentation:
 
-# Visa India Support
-
-## Root
-- [Visa Consumer Support](support.md)
-
-## support
-- [Consumer](support/consumer.md)
-- [Merchant](support/merchant.md)
-
-## support/consumer
-- [Checkout Fees + Contact Form](support/consumer/checkout-fees-contact-form.md)
-- [Visa Travel Services | Visa Travel Credit Card ...",medium_risk_answered,product_issue
+---
+title: ""Visa Travel Services | Visa Travel Credit Card Support""
+source_url: ""https://www.visa.co.in/support/consumer/travel-support.html""
+final_url: ""https://www.visa.co.in/support/consumer/travel-support.html""
+last_modified: ""2026-04-01T08:07:35.955Z""
+description: ""Travel with Visa and you’ll h...",medium_risk_answered,product_issue
 replied,api_support,"Based on our documentation:
 
-# Claude Help Center
-
-Exported 321 articles.
-
-## Amazon Bedrock
-- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
-- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",feature_acknowledged,feature_request
+---
+title: ""How up-to-date is Claude's training data?""
+title_slug: ""how-up-to-date-is-claudes-training-data""
+source_url: ""https://support.claude.com/en/articles/8114494-how-up-to-date-is-claude-s-training-data""
+last_updated_iso: ""2026-04-16T13:30:36Z""
+article_id: ""8070455""
+breadcrumbs:
+  - ""Claude""
+...",feature_acknowledged,feature_request
 replied,general,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",answer_from_corpus,product_issue
+---
+title: ""How can I delete a Question that I No Longer Require?""
+title_slug: ""how-can-i-delete-a-question-that-i-no-longer-require""
+source_url: ""https://support.hackerrank.com/articles/4964125282-how-can-i-delete-a-question-that-i-no-longer-require%3F""
+article_slug: ""4964125282-how-can-i-delete-a-...",answer_from_corpus,product_issue
 escalated,general,Your request requires further review. Our support team will assist you shortly.,high_risk_security,product_issue
 replied,api_support,"Based on our documentation:
 
-# Claude Help Center
-
-Exported 321 articles.
-
-## Amazon Bedrock
-- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
-- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",bug_guidance,bug
+---
+title: ""How can I create and manage projects?""
+title_slug: ""how-can-i-create-and-manage-projects""
+source_url: ""https://support.claude.com/en/articles/9519177-how-can-i-create-and-manage-projects""
+last_updated_iso: ""2026-03-16T21:11:37Z""
+article_id: ""9780564""
+breadcrumbs:
+  - ""Pro and Max plans""
+...",bug_guidance,bug
 replied,account_access,"Based on our documentation:
 
-# HackerRank Knowledge Base
-
-Exported 394 articles.
-
-## Uncategorized
-- [Assessing Candidates on Prompt Engineering Skills](uncategorized/1231590424-assessing-candidates-on-prompt-engineering-skills.md)
-- [Browser Recommendations](uncategorized/5897755717-browser-recommendations.md)
-- [Execution Env...",medium_risk_answered,product_issue
+---
+title: ""Update Company Logo Prerequisite Updating the company logo""
+title_slug: ""update-company-logo-prerequisite-updating-the-company-logo""
+source_url: ""https://support.hackerrank.com/articles/6195679465-adding-a-custom-logo-to-your-account""
+article_slug: ""6195679465-adding-a-custom-logo-to-you...",medium_risk_answered,product_issue
 replied,api_support,"Based on our documentation:
 
-# Claude Help Center
-
-Exported 321 articles.
-
-## Amazon Bedrock
-- [How do I get access to Claude in Amazon Bedrock?](amazon-bedrock/7996920-how-do-i-get-access-to-claude-in-amazon-bedrock.md)
-- [How do I learn more about Amazon and Anthropic’s strategic collaboration?](amazon-bedrock/10280779-how-do...",answer_from_corpus,product_issue
+---
+title: ""What should I do if I suspect my API key has been compromised?""
+title_slug: ""what-should-i-do-if-i-suspect-my-api-key-has-been-compromised""
+source_url: ""https://support.claude.com/en/articles/8384961-what-should-i-do-if-i-suspect-my-api-key-has-been-compromised""
+last_updated_iso: ""2026-0...",answer_from_corpus,product_issue
 replied,billing,"Based on our documentation:
 
-# Visa India Support
-
-## Root
-- [Visa Consumer Support](support.md)
-
-## support
-- [Consumer](support/consumer.md)
-- [Merchant](support/merchant.md)
-
-## support/consumer
-- [Checkout Fees + Contact Form](support/consumer/checkout-fees-contact-form.md)
-- [Visa Travel Services | Visa Travel Credit Card ...",medium_risk_answered,product_issue
+---
+title: ""PYB – Fraud Prevention""
+source_url: ""https://www.visa.co.in/support/small-business/fraud-protection.html""
+final_url: ""https://www.visa.co.in/support/small-business/fraud-protection.html""
+last_modified: ""2017-07-18T16:48:52.312Z""
+description: ""Protect your business with fraud prevention, ...",medium_risk_answered,product_issue
