@@ -196,6 +196,12 @@ python main.py
 
 ---
 
+## Snapshots : 
+<img width="800" height="650" alt="Screenshot 2026-05-02 111716" src="https://github.com/user-attachments/assets/2e816ea6-f5df-41d5-b2a0-96589c2b3585" /> <br> <br>
+<img width="800" height="650" alt="Screenshot 2026-05-02 111917" src="https://github.com/user-attachments/assets/55933f90-b7fd-4adb-b318-8ba50b409fa2" />
+
+
+
 ## 🏁 Final Note
 
 This project demonstrates how **AI + rule-based systems** can be combined to build **reliable, scalable, and production-ready support automation systems**.
