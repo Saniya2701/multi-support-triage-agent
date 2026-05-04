@@ -208,7 +208,8 @@ This project demonstrates how **AI + rule-based systems** can be combined to bui
 🎓 B.Tech Computer Science & Engineering  
 🏫 D. Y. Patil College of Engineering & Technology, Kolhapur  
 
-🔗 GitHub: https://github.com/Saniya2701  
+🔗 GitHub: https://github.com/Saniya2701 <br>
+🔗 LinkedIn: https://www.linkedin.com/in/saniyamane/
 
 ---
 
